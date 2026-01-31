@@ -62,7 +62,7 @@ Sanguine is a turn-based strategy card game where two players (RED and BLUE) com
 4. The player wins a row if their score exceeds the opponent's
 5. The player who wins the most rows wins the game
 
-## 🏗 Architecture
+## Architecture
 
 ### Model-View-Controller Pattern
 
@@ -213,7 +213,7 @@ new AdvancedCompositeStrategy(
 )
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 sanguine/
