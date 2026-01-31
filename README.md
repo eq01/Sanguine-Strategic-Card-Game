@@ -43,7 +43,7 @@ Sanguine is a turn-based strategy card game where two players (RED and BLUE) com
 - Interactive card selection and placement
 - Score panels showing row-by-row competition
 
-## 📖 Game Rules
+## Game Rules
 
 ### Board Setup
 - Grid dimensions: Configurable (default 3 rows × 5 columns)
